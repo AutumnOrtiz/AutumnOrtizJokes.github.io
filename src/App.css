@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Raleway:wght@300;400&display=swap');
+
+.joke { 
+  padding: 40px;
+  background-color: #b2cec6;
+  margin: 100px;
+  border-radius: 15px;
+  color: #323a38;
+  font-family: 'Barlow', sans-serif;
+}
+
+button { 
+   padding: 20px;
+   border: none; 
+   border-radius: 10px;
+   font-family: 'Barlow', sans-serif;
+   font-size: 17px;
+}
